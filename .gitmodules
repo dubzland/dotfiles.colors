@@ -1,0 +1,9 @@
+[submodule ".config/base16-shell"]
+	path = .config/base16-shell
+	url = https://github.com/tinted-theming/base16-shell
+[submodule ".config/tinted-theming/base16-fzf"]
+	path = .config/tinted-theming/base16-fzf
+	url = https://github.com/tinted-theming/base16-fzf
+[submodule ".config/tinted-theming/base16-tmux"]
+	path = .config/tinted-theming/base16-tmux
+	url = https://github.com/tinted-theming/base16-tmux
